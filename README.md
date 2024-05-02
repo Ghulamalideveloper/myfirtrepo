@@ -1,7 +1,7 @@
 # myfirtrepo
 This is my firts repo
 <br>
-Auth Ghulam ali
+Auth Babar mugalgit
 Web Developer
 <br>
 hello aj ke upadtes hn
